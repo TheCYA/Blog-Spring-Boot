@@ -1,0 +1,35 @@
+# Maven / Java
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# Configuración sensible
+application.properties
+.env
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# STS
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+# Otros
+HELP.md
